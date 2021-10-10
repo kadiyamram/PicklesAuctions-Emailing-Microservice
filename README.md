@@ -1,6 +1,6 @@
 # PicklesAuctionsEmailingMicroservice
 # Application Architecture Diagram.
-![alt text](https://github.com/kadiyamram/PicklesAuctions-Emailing-Microservice/blob/main/images/PicklesAuctionsEmailMicroserviceArchitecture.png)
+![alt text](https://github.com/kadiyamram/PicklesAuctions-Emailing-Microservice/blob/main/Images/PicklesAuctionsEmailMicroserviceArchitecture.png)
 
 Application Uses  
 
